@@ -1,0 +1,12 @@
+E:\semester Final\VP\Labs\LAB 4\Activity1 Matrix\bin\Debug\Activity1 Matrix.exe.config
+E:\semester Final\VP\Labs\LAB 4\Activity1 Matrix\bin\Debug\Activity1 Matrix.exe
+E:\semester Final\VP\Labs\LAB 4\Activity1 Matrix\bin\Debug\Activity1 Matrix.pdb
+E:\semester Final\VP\Labs\LAB 4\Activity1 Matrix\obj\Debug\Activity1 Matrix.csprojAssemblyReference.cache
+E:\semester Final\VP\Labs\LAB 4\Activity1 Matrix\obj\Debug\Activity1_Matrix.Form1.resources
+E:\semester Final\VP\Labs\LAB 4\Activity1 Matrix\obj\Debug\Activity1_Matrix.Form2.resources
+E:\semester Final\VP\Labs\LAB 4\Activity1 Matrix\obj\Debug\Activity1_Matrix.Form3.resources
+E:\semester Final\VP\Labs\LAB 4\Activity1 Matrix\obj\Debug\Activity1_Matrix.Properties.Resources.resources
+E:\semester Final\VP\Labs\LAB 4\Activity1 Matrix\obj\Debug\Activity1 Matrix.csproj.GenerateResource.cache
+E:\semester Final\VP\Labs\LAB 4\Activity1 Matrix\obj\Debug\Activity1 Matrix.csproj.CoreCompileInputs.cache
+E:\semester Final\VP\Labs\LAB 4\Activity1 Matrix\obj\Debug\Activity1 Matrix.exe
+E:\semester Final\VP\Labs\LAB 4\Activity1 Matrix\obj\Debug\Activity1 Matrix.pdb
